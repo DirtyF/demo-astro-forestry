@@ -37,7 +37,7 @@ fields:
     options: []
     source:
       type: pages
-      section: authors-be494ad1-9940-4514-bb27-01f265eca1c6
+      section: authors
       file: 
       path: 
   label: Author
